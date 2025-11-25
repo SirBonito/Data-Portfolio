@@ -1,87 +1,60 @@
-# Preparing Data for Analysis: Access to Safe and Affordable Drinking Water  
-*ALX Data Analytics – Data Preparation Module Project*  
-*By Boniface Kibet*
+# Data Analytics Portfolio – ALX
+
+This repository showcases the projects I completed during the ALX Data Analytics program. It documents my learning journey from preparing and exploring data to querying, analyzing, and visualizing it. Each project reflects hands-on work with real-world datasets and tools used across the data analytics lifecycle.
 
 ---
 
-## 🌍 Project Overview  
-This project focused on understanding **global inequalities in access to safe and affordable drinking water**, emphasizing how data preparation shapes the accuracy and depth of analysis.  
-Before any querying or visualization, the goal was to clean, standardize, and transform raw data into a reliable foundation for later exploration.
+## Preparing Data Module
+
+During this module, I developed core data and spreadsheet skills essential for working with data effectively. Using Google Sheets, I learned how to retrieve, clean, manipulate, analyze, and visualize data in ways that support clear and informed decision-making.
+
+The exercises were based on real-world datasets, including themes related to the United Nations Sustainable Development Goals (SDGs). This context demonstrated how spreadsheet techniques can be applied to analyze global development issues.
+
+Through practical exercises, case studies, and a project, I built a strong foundation for data-driven analysis and decision-making.
 
 ---
 
-## 🎯 Objectives  
-- Assess disparities in access to clean water between different **countries and regions**.  
-- Identify missing, inconsistent, or unreliable data that could distort analysis.  
-- Practice professional **data preparation techniques**—cleaning, transformation, and validation—using real-world water access data.
+## Integrated Project (Part 1): Understanding the Data – Access to Safe Drinking Water
+
+This project marks the first stage of the ALX Integrated Project. Here, I explored inequalities in access to safe and affordable drinking water across different countries and regions.
+
+Working with SDG-related data, I examined variations in service levels and trends across regions. My work included:
+
+- Importing and preparing datasets in Google Sheets.
+- Cleaning and standardizing data for analysis.
+- Applying formulas and functions to extract insights.
+- Using pivot tables to summarize information.
+- Creating visualizations to reveal patterns and regional differences.
+- Calculating key summary statistics, including measures of central tendency and spread.
+- Interpreting findings to understand disparities in water access.
+
+This stage strengthened my ability to read, interpret, and communicate data insights clearly.
 
 ---
 
-## 🧩 Dataset Description  
-The dataset included information on water access, population, and service levels across various countries and income groups.  
-Key columns included:
-- **Country / Region**
-- **Population served**
-- **Service level (%)**
-- **Year**
-- **Water source type**
-- **Income group classification**
+## Upcoming Sections
 
-The raw data contained inconsistencies such as:
-- Different spellings for the same country names  
-- Missing or duplicate entries  
-- Unaligned service-level formats (percentages vs decimals)
+The following sections will be added as the portfolio continues to grow:
+
+- Integrated Project (Part 2): Querying Data  
+- Integrated Project (Part 3): Visualizing Data  
+- Power BI Dashboards  
+- Personal Projects  
+- Tools and Technologies Used  
 
 ---
 
-## 🛠️ Tools & Techniques  
-- **Excel / Google Sheets:** For data cleaning, formatting, and standardization.  
-- **SQL (basic):** For initial filtering and exploration.  
-- **Data Validation:** Ensuring unique IDs, checking for null values, and applying consistent naming conventions.  
+## Tools & Technologies
+
+- Google Sheets  
+- Excel  
+- SQL (PostgreSQL)  
+- Power BI  
+- Python (in later modules)  
 
 ---
 
-## 🔍 Process  
+## About This Repository
 
-### 1. Data Cleaning  
-- Removed duplicates and irrelevant rows.  
-- Standardized country and region names using lookup tables.  
-- Handled missing data using mean substitution and logical inference (e.g., using neighboring country averages).  
-- Converted service level values into a consistent percentage format.  
+This repository evolves as I progress through the ALX Data Analytics programme. More project files, datasets (where shareable), dashboards, and documentation will be added as each module is completed.
 
-### 2. Data Transformation  
-- Split composite columns (e.g., “Country–Region”) into separate fields.  
-- Created calculated columns such as “Population without access.”  
-- Filtered out outliers to prevent distortion of results.  
-
-### 3. Validation  
-- Cross-checked totals and averages with public reference datasets (e.g., WHO/UNICEF JMP).  
-- Ensured data types aligned correctly (text, numeric, percentage).  
-
----
-
-## 💡 Key Findings (Before Visualization)
-- **High inequality:** Low-income regions consistently showed service levels below 50%.  
-- **Regional contrast:** Urban regions often had 2–3× higher access rates than rural ones.  
-- **Data gaps:** Some countries lacked recent reporting, emphasizing the need for better data infrastructure.
-
----
-
-## 🧠 Learnings & Reflections  
-This project reinforced one of the biggest truths in analytics: *clean data is powerful data.*  
-Through this exercise, I learned:
-- Preparation takes time but saves countless errors later.  
-- Context matters—knowing what a number *means* is as important as its accuracy.  
-- Collaboration and peer review are essential in catching unseen inconsistencies.
-
----
-
-## 🚀 Next Steps  
-The cleaned and validated dataset from this project formed the basis for the **Maji Ndogo Integrated Project**, where I applied querying, analysis, and soon, visualization techniques to extract deeper insights.
-
----
-
-## 👤 Author  
-**Boniface Kibet**  
-Data Analyst (in training) | ALX Africa  
-[LinkedIn](www.linkedin.com/in/bonifacekibet) | [Email](mailto:bonifacekibet50@gmail.com)
