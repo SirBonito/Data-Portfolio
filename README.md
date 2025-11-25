@@ -1,7 +1,7 @@
 # Boniface Kibet | Data Analyst
 
 Welcome to my Data Analytics portfolio. I’m passionate about using data to uncover insights and solve real-world challenges. 
-This repository showcases my journey through the ALX Data Analytics program — where I’ve learned how to prepare, query, and soon visualize data.
+This repository showcases my journey through the ALX Data Analytics program, where I have learned how to prepare, query, and visualize data.
 
 ---
 
@@ -9,7 +9,7 @@ This repository showcases my journey through the ALX Data Analytics program — 
 
 ### 1. Preparing Data for Analysis: Access to Safe and Affordable Drinking Water
 **Goal:** Investigate global inequalities in access to safe drinking water, focusing on differences between countries and regions.  
-**Focus:** Data cleaning, validation, and transformation.  
+**Focus:** Exploring data in Google Sheets, and learn how to retrieve, manipulate, analyse, and visualise data 
 **Why it matters:** Accurate data preparation reveals the true picture behind water access statistics, allowing for fair comparisons across regions.  
 [View Project →](/Preparing_Data_Project/README.md)
 
